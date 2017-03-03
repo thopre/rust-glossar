@@ -1,5 +1,6 @@
 # rust-glossar
 Glossar für Rust 
 
-Trait 
+Trait:
 Definiert den Kopf einer Funktion, für einen bestimmten Typ
+Crate:
